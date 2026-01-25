@@ -1,16 +1,54 @@
-# React + Vite
+# 🔐 Secure Portfolio v2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A Cyber Security & AppSec Portfolio built with React.js.
+> Designed to demonstrate secure coding practices, DevSecOps knowledge, and frontend proficiency.
 
-Currently, two official plugins are available:
+![Portfolio Preview](public/preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚡ System Status
+- **Version:** 2.0.1 (Stable)
+- **Encryption:** 256-Bit AES (Simulated)
+- **Theme:** Cyber / Matrix Terminal
+- **Status:** [ ONLINE ]
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛡️ Key Features (The "Why")
+This isn't just a portfolio; it's a demonstration of my technical stack:
 
-## Expanding the ESLint configuration
+### 1. **Secure Architecture Visualization**
+- Interactive **DevSecOps Pipeline** diagram showing knowledge of SAST, DAST, and WAF integration.
+- Demonstrates understanding of the Secure SDLC (Software Development Life Cycle).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. **"Active Defense" Contact Form**
+- A simulated **Web Application Firewall (WAF)** running on the client side.
+- **Input Sanitization:** Blocks malicious payloads (XSS, SQL Injection patterns) in real-time.
+- **Visual Feedback:** Border turns RED upon threat detection, simulating a blocked request.
+
+### 3. **Immersive UI/UX**
+- **Matrix Rain Effect:** Custom Canvas implementation for the classic hacker aesthetic.
+- **Boot Sequence:** Realistic BIOS/Kernel loading screen on initial visit.
+- **Dynamic Footer:** Live clock (UTC) and simulated network latency ticker.
+
+---
+
+## 🛠️ Tech Stack (The "How")
+
+| Component | Technology |
+|-----------|------------|
+| **Frontend** | React.js (Vite) |
+| **Styling** | CSS Modules (Matrix Theme) |
+| **Icons** | Lucide React |
+| **Forms** | Formspree (Secure Relay) |
+| **Deployment** | Netlify / Vercel |
+
+---
+
+## 🚀 Deployment (Run it Locally)
+
+If you want to run this system on your local machine:
+
+1. **Clone the Repository**
+   ```bash
+   git clone [https://github.com/Kiran-bavdane29/secure-portfolio-v2.git](https://github.com/Kiran-bavdane29/secure-portfolio-v2.git)
+   cd secure-portfolio-v2
