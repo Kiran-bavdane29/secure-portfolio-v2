@@ -4,7 +4,7 @@ export const portfolioData = {
     role: "Certified Ethical Hacker | Software Security Engineer",
     //email: "kiranBavdane578@gmail.com",
     location: "Mumbai, Maharashtra",
-    summary: "Bridging the gap between development and security. With nearly 4 years of experience, I specialize in Application Security (AppSec), Vulnerability Remediation, and building Secure Architectures (MEAN Stack)."
+    summary: "Security Engineer bridging the gap between rapid development and security. With 4 years of experience, I architect Secure SDLC pipelines, perform advanced Vulnerability Remediation, and build resilient web systems using the MEAN Stack."
   },
   stats: [
     { label: "Vulnerabilities Patched", value: "20+" },
@@ -13,8 +13,24 @@ export const portfolioData = {
     { label: "Experience", value: "3.9 Yrs" }
   ],
   skills: {
-    development: ["JavaScript (ES6+)", "React", "Node.js", "Secure SDLC", "Java"],
-    security: ["Burp Suite", "OWASP ZAP", "Penetration Testing", "Metasploit", "Wireshark"]
+    development: [
+      "JavaScript (ES6+)",
+      "React.js",
+      "Angular",
+      "Node.js",
+      "Secure SDLC",
+      "Java",
+      "REST API Security"
+    ],
+    security: [
+      "Burp Suite",
+      "OWASP ZAP",
+      "SonarQube",
+      "Metasploit",
+      "Wireshark",
+      "SQLMap",
+      "Nmap"
+    ]
   },
   projects: [
     {
