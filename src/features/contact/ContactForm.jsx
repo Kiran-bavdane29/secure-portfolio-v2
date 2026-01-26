@@ -110,7 +110,7 @@ const ContactForm = () => {
 
   return (
     <div style={{ maxWidth: '900px', margin: '2rem auto' }}>
-      <TerminalCard title="// SECURE_COMMS_LINK">
+      <TerminalCard title="// SECURE_COMMUNICATION_LINK">
         <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
           
           {/* LEFT: FORM INPUTS */}

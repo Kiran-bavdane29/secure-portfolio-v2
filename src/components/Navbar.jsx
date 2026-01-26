@@ -17,7 +17,7 @@ const Navbar = () => {
         <button onClick={() => scrollToSection('identity')} style={styles.link}>// IDENTITY</button>
         <button onClick={() => scrollToSection('skills')} style={styles.link}>// CAPABILITIES</button>
         <button onClick={() => scrollToSection('missions')} style={styles.link}>// MISSIONS</button>
-        <button onClick={() => scrollToSection('contact')} style={styles.link}>// COMMS</button>
+        <button onClick={() => scrollToSection('contact')} style={styles.link}>// COMMUNICATION</button>
       </div>
     </nav>
   );
