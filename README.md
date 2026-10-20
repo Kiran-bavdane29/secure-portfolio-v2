@@ -3,7 +3,7 @@
 > A Cyber Security & AppSec Portfolio built with React.js.
 > Designed to demonstrate secure coding practices, DevSecOps knowledge, and frontend proficiency.
 
-![Portfolio Preview](public/preview.png)
+![Portfolio Preview](https://kiran-secure-portfolio.netlify.app/)
 
 ## ⚡ System Status
 - **Version:** 2.0.1 (Stable)
